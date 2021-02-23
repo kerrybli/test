@@ -1,0 +1,49 @@
+:root {
+    background-color: aquamarine;
+}
+header h1 {
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    font-variant: small-caps;
+    font-size: 3em;
+    background: linear-gradient(90deg, purple,violet,blue,orange,black);
+    padding-bottom: 30px;
+    margin: -10px;
+    
+}
+
+ul {
+    /*background-color: linear-gradient(90deg, purple,violet,blue,orange,black);*/
+    color: ivory;
+    /*padding-right: 10px;*/
+    margin-top: -25px;
+    /*margin-bottom: 150px;*/
+    text-align: right;
+    
+}
+li {
+    display: inline;
+    font-size: 1em;
+    font-family: monospace;
+    font-size: 1.5em;
+    margin: 0 15px 0 15px;
+    
+    
+}
+
+.hover:hover {
+    color: darkmagenta;
+    background:linear-gradient(90deg, #d3959b 0%,#bfe6ba 100% );
+    font-size: 21px;
+    font-family: 'comicsansmms';
+}
+form {
+    background: burlywood;
+}
+input {
+    float: center;
+}
+.cp{
+    text-align: center;
+}
